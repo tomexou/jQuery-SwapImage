@@ -1,7 +1,7 @@
 # jQuery-SwapImage v5.11.6
 jQuery plugin module for swapping image(s)
 
-See the "index.html" to demo and get the usage.
+See the "index.html" to demo and get the tutorials.
 
 
 # Usage
@@ -30,8 +30,10 @@ See the "index.html" to demo and get the usage.
     
 
 # HTML
-<a href="#" title="">
-    <img class="swapImage" src="images/1.gif" alt="" width="100" height="100" 
-      data-in="images/a.gif" 
-      data-out="images/1.gif" />
-</a>
+
+    <a href="#" title="">
+        <img class="swapImage" src="images/1.gif" alt="" width="100" height="100" 
+            data-in="images/a.gif" 
+            data-out="images/1.gif" 
+            />
+    </a>
