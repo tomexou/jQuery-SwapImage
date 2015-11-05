@@ -1,11 +1,12 @@
 # jQuery-SwapImage v5.11.6
 jQuery plugin module for swapping images when mouse cursor hover image in or out.
 
-![alt tag](https://raw.githubusercontent.com/tomexou/jQuery-SwapImage/master/screenshot.gif)
+<img src="https://raw.githubusercontent.com/tomexou/jQuery-SwapImage/master/screenshot.gif" />
 
 See the "index.html" to demo and get the tutorials.
 
-# Usage
+
+# JavaScript
 
     <!-- Required! -->
     <script type="text/javascript" src="js/jquery-swapimage/5.11.6/jquery-2.1.4.min.js"></script>
