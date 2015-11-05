@@ -8,10 +8,10 @@ See the "index.html" to demo and get the tutorials.
 
 # JavaScript
 
-    <!-- Required! -->
+    <!-- Required, based on jQuery 1.x or 2.x -->
     <script type="text/javascript" src="js/jquery-swapimage/5.11.6/jquery-2.1.4.min.js"></script>
 
-    <!-- $SwapImage -->
+    <!-- Module: $SwapImage -->
     <script type="text/javascript" src="js/jquery-swapimage/5.11.6/jquery-swapimage.min.js"></script>
     
     <script type="text/javascript">
@@ -39,3 +39,7 @@ See the "index.html" to demo and get the tutorials.
             data-out="images/1.gif" 
             />
     </a>
+
+
+# Release History
+* 2015-11-06 First release.
