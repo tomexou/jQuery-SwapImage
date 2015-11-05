@@ -1,7 +1,7 @@
 ﻿/*
 jQuery plugin module for swapping image(s)
 Author: Tomex Ou <tomexou@163.com>
-Update: 2015-11-06 04:37:37
+Update: 2015-11-06 04:39:25
 */
 var $SwapImage = (function () {
 
