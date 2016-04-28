@@ -31,7 +31,7 @@ See the "index.html" to demo and get the tutorials.
     </script>
     
 
-# HTML
+# HTML Example
 
     <a href="#" title="">
         <img class="swapImage" src="images/1.gif" alt="" width="100" height="100" 
